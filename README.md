@@ -6,8 +6,6 @@ read://https_machinelearningknowledge.ai/?url=https%3A%2F%2Fmachinelearningknowl
 
 *500 AI Machine learning Deep learning Computer vision NLP Projects with code*
 
-***This list is continuously updated.*** - You can take pull request and contribute.
-
 | Sr No | Name                                                         | Link                                |
 | ----- | ------------------------------------------------------------ | ----------------------------------- |
 | 1     | 180 Machine learning Project                                 | [is.gd/MLtyGk](http://is.gd/MLtyGk) |
